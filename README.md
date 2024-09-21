@@ -23,6 +23,7 @@ I focus on developing full-stack web applications using JavaScript frameworks an
   - Express.js
   - MongoDB
   - Mongoose
+  - Socket.io
   - JsonWebTokens
 
 - **Other Tools**:
