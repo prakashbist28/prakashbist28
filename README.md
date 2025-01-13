@@ -1,7 +1,7 @@
 
 # Hey there, I'm Prakash Bist 👋
 
-### A passionate frontend / backend / full Stack Developer from India 🌏. I have recently finsihed pursuing my degree as a computer science student🎓.
+### A passionate frontend / backend / full Stack Developer from India 🌏. I have recently finished pursuing my degree as a computer science student🎓.
 
 I focus on developing full-stack web applications using JavaScript frameworks and libraries. I enjoy simplifying complex challenges into elegant, user-friendly solutions, and I'm always eager to learn and dive into new technologies!
 
