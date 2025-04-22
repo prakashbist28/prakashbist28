@@ -30,7 +30,7 @@ I focus on developing full-stack web applications using JavaScript frameworks an
   - Git, GitHub
   - Cloudinary (Image/Video Uploads)
   - Postman, VSCode, npm, Yarn
-  - Deployment: Heroku, Netlify, Vercel
+  - Deployment: Render, Vercel
 
 ---
 
